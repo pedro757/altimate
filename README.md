@@ -17,4 +17,4 @@ When ask for the database name you should type `example.db` otherwise it will no
 
 1. Currently when we reload the page we lose the state, so I would find a way to persist data with the libraries I'm using (react-query, jotai).
 1. Better UI/UX, responsive design etc..
-1. ALthouhg this is a contrived case there's also room of improvements in the database, I just created a sqlite db called "example.db" containing some empty tables but other dbs won't show any tables because sqlite3 creates them empty db files.
+1. Although this is a contrived case there's also room for improvements in the database, I just created a sqlite db called "example.db" containing some empty tables but other dbs won't show any tables because sqlite3 creates them empty db files.
